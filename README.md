@@ -1,4 +1,4 @@
-# Mandelbrot-3D-Fractal
+# Mandelbrot – 3D Fractal
 
 This program represents a 3-dimensional version of the Mandelbrot fractal I originally created in JavaScript. We can execute or visualize this Python code in a 3D software like Blender, thanks to the <i>text-editor</i> property. I also provided a real-time visualization of this fractal in a Java application.
 
