@@ -54,11 +54,11 @@ public class Main extends JFrame {
     // -----------------------------------------------------------------------------
     private double getXPos(double x) {
         return x/zoomFactor + topLeftX;
-    } // getXPos
+    }
     // -------------------------------------------------------------------
     private double getYPos(double y) {
         return y/zoomFactor - topLeftY;
-    } // getYPos
+    }
     // -----------------------------------------------------------------------------
 
     /**
